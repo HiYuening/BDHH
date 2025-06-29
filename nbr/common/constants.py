@@ -1,0 +1,3 @@
+TIME_SCALAR = 3600 * 24 * 7 * 8
+INF = 0xFFFFFFFF
+EPS = 1e-10
